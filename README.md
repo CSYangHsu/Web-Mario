@@ -27,6 +27,8 @@ There are two stages for players.
 ### GAME
 ![image](https://user-images.githubusercontent.com/86723888/179411008-cbfb4faa-0afa-4dae-895b-d9ce187c4a5e.png)
 * The game would be limited in 1 minute.
+* Just like the classic Mario game, player can kill little monsters by stomping on their heads.
+* There are also SUPER MUSHROOM inside the item box.
 * At the top left of the scene, there are multiple things recorded:  
 1. Current player name
 2. The last game record
@@ -40,6 +42,7 @@ There are two stages for players.
   
   
 * Design of database  
+  
 ![image](https://user-images.githubusercontent.com/86723888/179411896-4eb23c20-0f46-4f0a-9921-283eae8b4c87.png)
 
   
