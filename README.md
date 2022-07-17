@@ -33,8 +33,13 @@ There are two stages for players.
 3. Remaining time
 4. Current life and score  
 ![image](https://user-images.githubusercontent.com/86723888/179411359-ccee2a91-3e4a-43e9-9c34-f20ac20ca4d9.png)
-
-* Design of database
+  
+  
+  
+  
+  
+  
+* Design of database  
 ![image](https://user-images.githubusercontent.com/86723888/179411896-4eb23c20-0f46-4f0a-9921-283eae8b4c87.png)
 
   
