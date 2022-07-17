@@ -10,6 +10,7 @@ demo: https://mario-35737.web.app/
 * [Home-Page](#Home-Page)
 * [MENU](#MENU)
 * [GAME](#GAME)
+* [ENDING](#ENDING)
   
   
 ### Home-Page
@@ -25,7 +26,15 @@ There are two stages for players.
 
 ### GAME
 ![image](https://user-images.githubusercontent.com/86723888/179411008-cbfb4faa-0afa-4dae-895b-d9ce187c4a5e.png)
-  
+* The game would be limited in 1 minute.
+* At the top left of the scene, there are multiple things recorded:  
+1. Current player name
+2. The last game record
+3. Remaining time
+4. Current life and score
+![image](https://user-images.githubusercontent.com/86723888/179411359-ccee2a91-3e4a-43e9-9c34-f20ac20ca4d9.png)
+
+
  
   
   
