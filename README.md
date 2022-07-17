@@ -49,7 +49,7 @@ There are two stages for players.
   
   
 ### ENDING
-If you are still alive and reached the endpoint in 60 secs, you win.
+If you are still alive and reached the endpoint in 60 secs, you win.  
 ![image](https://user-images.githubusercontent.com/86723888/179414911-d89f6df7-0148-4484-8f4c-32ac9dbfe979.png)
 ![image](https://user-images.githubusercontent.com/86723888/179414178-15ebc2fb-7944-467e-a5d5-d86a12b5d5be.png)  
 The win/lose scene would automatically go back to the Home-Page in 10 secs.
